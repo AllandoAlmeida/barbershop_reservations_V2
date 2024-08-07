@@ -48,3 +48,13 @@ https://neon.tech/
 - npx create-next-app@latest .
 - npx prisma init --datasource-provider postgresql
 - npx prisma format
+- npm install -D ts-node
+- npx prisma db seed
+
+### Etapa dos projeto
+
+- Setup do banco;
+- Seeding do banco (colocar dados)
+- Introdução ao Next Js
+- Tailwind e Shadcn
+- Git Hooks
